@@ -1,8 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\LILY.Wang\\Desktop\\Notify_Test1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\LILY.Wang\\Desktop\\test_notification\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\LILY.Wang\\Desktop\\test_notification\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "157,57,105",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "198,99,151"
+                    },
+                    "to": {
+                        "startLines": "152,153,154",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "7643,7689,7736",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "7684,7731,7782"
+                    }
+                },
                 {
                     "source": "C:\\Users\\LILY.Wang\\.gradle\\caches\\transforms-2\\files-2.1\\637e87538cdf6aea5141591760a2054a\\appcompat-1.1.0\\res\\values\\values.xml",
                     "from": {
@@ -42,24 +59,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\LILY.Wang\\Desktop\\Notify_Test1\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "157,57,105",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "198,99,151"
-                    },
-                    "to": {
-                        "startLines": "152,153,154",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "7643,7689,7736",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "7684,7731,7782"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\LILY.Wang\\Desktop\\Notify_Test1\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\LILY.Wang\\Desktop\\test_notification\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "1,2",
                         "startColumns": "4,4",
@@ -76,7 +76,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\LILY.Wang\\Desktop\\Notify_Test1\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\LILY.Wang\\Desktop\\test_notification\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",

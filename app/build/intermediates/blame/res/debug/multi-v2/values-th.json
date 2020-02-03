@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\LILY.Wang\\Desktop\\Notify_Test1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-th\\values-th.xml",
+            "outputFile": "C:\\Users\\LILY.Wang\\Desktop\\test_notification\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-th\\values-th.xml",
             "map": [
                 {
                     "source": "C:\\Users\\LILY.Wang\\.gradle\\caches\\transforms-2\\files-2.1\\637e87538cdf6aea5141591760a2054a\\appcompat-1.1.0\\res\\values-th\\values-th.xml",

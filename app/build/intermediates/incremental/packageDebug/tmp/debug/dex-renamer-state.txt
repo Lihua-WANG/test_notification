@@ -1,4 +1,4 @@
-#Sat Feb 01 10:47:25 CST 2020
-base.0=C\:\\Users\\LILY.Wang\\Desktop\\Notify_Test1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Mon Feb 03 13:12:21 CST 2020
+base.0=C\:\\Users\\LILY.Wang\\Desktop\\test_notification\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
