@@ -22,9 +22,9 @@ public class MainActivity extends AppCompatActivity {
 
     int type = AlarmManager.RTC_WAKEUP;
     //new Date()：表示当前日期，可以根据项目需求替换成所求日期
-    //getTime()：日期的该方法同样可以表示从1970年1月1日0点至今所经历的毫秒数
+    // getTime (): This method of date can also represent the number of milliseconds elapsed from 00:00 on January 1, 1970 to the present
     long triggerAtMillis = new Date().getTime();
-    long intervalMillis = 100 * 60;
+    long intervalMillis = 1000 * 60;
     public class GlobalValues {
         // 周期性的闹钟
         public final static String TIMER_ACTION_REPEATING = "com.example.TIMER_ACTION_REPEATING";
